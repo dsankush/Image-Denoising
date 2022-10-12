@@ -1,2 +1,2 @@
 # image_denoising
-quality can be impoved if we remove noise from them
+Quality can be impoved if we remove noise from them
